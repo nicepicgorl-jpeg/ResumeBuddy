@@ -14,6 +14,10 @@ No installation required! You can use the full version of ResumeChad directly in
 > **Note:** The live version works exactly like the local version. It is **Client-Side Only**, meaning your data stays in your browser and never touches our servers. You just need your own free API key.
 
 ---
+<img width="1906" height="729" alt="image" src="https://github.com/user-attachments/assets/b8b67e9b-f66d-40f6-bd5a-78ad2af7970e" />
+
+---
+
 ## ✨ What Does ResumeChad Do?
 
 Most companies use software called an **ATS (Applicant Tracking System)** to screen resumes before a human ever sees them. If your resume doesn't match the job description closely enough, it gets rejected automatically — even if you're perfectly qualified.
