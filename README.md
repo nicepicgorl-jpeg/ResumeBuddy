@@ -5,7 +5,15 @@
 </p>
 
 ---
+## 🌐 Try It Instantly
 
+No installation required! You can use the full version of ResumeBuddy directly in your browser:
+
+### 👉 **[https://resumebuddy-eta.vercel.app/](https://resumebuddy-eta.vercel.app/)**
+
+> **Note:** The live version works exactly like the local version. It is **Client-Side Only**, meaning your data stays in your browser and never touches our servers. You just need your own free API key.
+
+---
 ## ✨ What Does ResumeBuddy Do?
 
 Most companies use software called an **ATS (Applicant Tracking System)** to screen resumes before a human ever sees them. If your resume doesn't match the job description closely enough, it gets rejected automatically — even if you're perfectly qualified.
